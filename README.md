@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Anjana Gadagalli  
 
-<!--
-**Anjana-Gadagalli/Anjana-Gadagalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Financial & Data Analyst** | 📊 **Python | SQL | Power BI | Advanced Excel**  
+🌱 Currently learning **Machine Learning & Generative AI**  
+🎯 Goal: Transition into **Data Engineering / AI Analytics**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjana%20Gadagalli-blue)](https://linkedin.com/in/anjana-gadagalli)  
+[![GitHub](https://img.shields.io/badge/GitHub-Anjana--Gadagalli-black)](https://github.com/Anjana-Gadagalli)  
+📧 **anjanagadagalli@gmail.com**
+
+---
+
+### 🔍 About Me  
+- Experienced in **financial data analysis, reconciliation automation, and performance tracking**.  
+- Skilled at **turning raw data into actionable insights** using Python (pandas, NumPy), SQL, and Power BI.  
+- Familiar with **US GAAP**, **corporate finance**, and building data-driven reports for business decision-making.  
+- Passionate about **AI-driven analytics**, and currently exploring **TensorFlow**, **OpenAI APIs**, and **data pipelines**.  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** Python, SQL  
+**Tools:** Power BI, Excel (Advanced), Jupyter, Git  
+**Libraries:** pandas, NumPy, matplotlib, seaborn  
+**Domains:** Finance, Reconciliation, Forecasting, Reporting  
+
+---
+
+
+⭐ *“Data tells stories — I translate them into strategy.”*
